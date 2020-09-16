@@ -1,8 +1,8 @@
 # unitywebsocket
-unity socket webcoket code using in my game free best http
-this code using in my game  include uniyt websocket client and socket client
-using code like blow
-you can modify code and using in your own project
+unity socket webcoket code using in my game free best http  
+this code using in my game  include uniyt websocket client and socket client  
+using code like blow  
+you can modify code and using in your own project  
 
 ``` C#
         private void send_login_message(string openid, string passporttype)
