@@ -1,5 +1,5 @@
 # unitywebsocket
-unity socket webcoket code using in my game free best http  
+unity socket webcoketclient and socketclient
 this code using in my game  include uniyt websocket client and socket client  
 using code like blow  
 you can modify code and using in your own project  
